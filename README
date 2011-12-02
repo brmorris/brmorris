@@ -3,33 +3,3 @@ README for brmorris
 
 
 This is brmorris's public git repo.
-
-
-Environment:
-
-
-Global setup:
- Set up git
-  git config --global user.name "Bradley Morrison"
-  git config --global user.email brmorris@ovi.com
-      
-Next steps:
-  mkdir brmorris
-  cd brmorris
-  git init
-  touch README
-  git add README
-  git commit -m 'first commit'
-  git remote add origin git@github.com:brmorris/brmorris.git
-  git push -u origin master
-      
-Existing Git Repo?
-  cd existing_git_repo
-  git remote add origin git@github.com:brmorris/brmorris.git
-  git push -u origin master
-      
-Importing a Subversion Repo?
-  Click here
-      
-When you're done:
-  Continue
